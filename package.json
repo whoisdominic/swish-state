@@ -1,7 +1,7 @@
 {
-  "name": "node-typescript-boilerplate",
-  "version": "0.0.0",
-  "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
+  "name": "swish-state",
+  "version": "0.0.1",
+  "description": "A core lightweight library for react using redux, thunk and xstate, based on dva-core.",
   "engines": {
     "node": ">= 14.16 <15"
   },
